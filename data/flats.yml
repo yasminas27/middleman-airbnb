@@ -1,0 +1,36 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  number_of_rooms: 4
+  smoking: false
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  number_of_rooms: 1
+  smoking: false
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  number_of_rooms: 1
+  smoking: true
+yasminas27:
+  name: "Yasmina's home"
+  description: "Central flat in Paris"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: true
+  rating: 4
+  number_of_rooms: 3
+  smoking: false

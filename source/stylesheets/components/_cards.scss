@@ -47,3 +47,27 @@
 .card-link:hover {
   opacity: 0.1;
 }
+
+.header-flat-details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 10px;
+}
+
+.header-flat-owner {
+  padding: 10px;
+  p {
+    font-size: 15px;
+  }
+}
+
+.header-flat-name {
+  padding: 10px;
+ h1 {
+  font-size: 18px;
+  color: black;
+  margin-top: 0;
+}
+}
