@@ -1,0 +1,5 @@
+.btn-meet {
+  border-radius: 5%;
+  margin: 30px;
+  background-color: white;
+  padding: 30px; }
